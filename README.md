@@ -1,4 +1,5 @@
-A website that shows exercises per body part. Includes searching by exercise name, body part, equipment used etc.
+A website that shows exercises per body part and Youtube links. 
+Includes searching by exercise name, body part, equipment used etc.
 Created with React, Material UI, and Rapid API.
 
 Changes:
